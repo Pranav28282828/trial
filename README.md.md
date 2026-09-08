@@ -19,10 +19,9 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> Pranav Mahesh Dudhe</p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
+    <p><strong>Email ID:</strong> pranavdudhe766@gmail.com </p>
     <p><strong>College Name:</strong> Alard College of Engineering</p>
     <p><strong>Branch/Specialization:</strong> Artificial Intelligence and Machine Learning</p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -30,10 +29,11 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Data Analytics</p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Instructor Name:</strong>Mr. Bhargavesh Dakka</p>
+    <p><strong>Instructor Name:</strong>Ms. Nithyasri Kannathal</p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> July 2026 – September 2026</p>
+    <p><strong>Duration:</strong> 6 Months</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
